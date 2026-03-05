@@ -1,0 +1,7 @@
+path: c:\Users\venun\OneDrive\Desktop\phytomaps\unified_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names: ['Unripe', 'Ripe']
